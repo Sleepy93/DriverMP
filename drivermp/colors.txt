@@ -1,0 +1,13 @@
+0 = bluegreen
+1 = blue
+2 = lightyellow
+3 = lightgreen
+4 = orange
+5 = blue
+6 = green
+7 = gray
+8 = olivegreen
+9 = yellow
+10 = bluegreen
+12 = brightyellow
+13 = darkgray

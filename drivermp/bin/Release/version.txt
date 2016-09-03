@@ -1,0 +1,25 @@
+1.21
+====
+- Decreased sync data
+- Increased update rate
+- Fixed shaking cars
+- Remaining traffic removed
+
+1.2
+===
+- Traffic removed
+- More accurate sync
+- Decreased update rate
+- Added different cars, colors
+- Added MP folder
+
+1.1
+===
+- v1.2 US and v6.3w EU version support added
+- 16 player support added
+- Removed MP folder
+- More accurate sync
+
+1.0
+===
+First release

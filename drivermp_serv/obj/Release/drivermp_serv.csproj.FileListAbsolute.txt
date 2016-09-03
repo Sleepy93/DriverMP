@@ -1,0 +1,12 @@
+D:\Dokumentumok\Programming\Exe\Projects\drivermp_serv\drivermp_serv\bin\Release\drivermp_serv.exe.config
+D:\Dokumentumok\Programming\Exe\Projects\drivermp_serv\drivermp_serv\bin\Release\drivermp_serv.exe
+D:\Dokumentumok\Programming\Exe\Projects\drivermp_serv\drivermp_serv\obj\Release\ResolveAssemblyReference.cache
+D:\Dokumentumok\Programming\Exe\Projects\drivermp_serv\drivermp_serv\obj\Release\drivermp_serv.exe
+d:\Dokumentumok\Programming\Exe\Projects\drivermp\drivermp_serv\bin\Release\drivermp_serv.exe.config
+d:\Dokumentumok\Programming\Exe\Projects\drivermp\drivermp_serv\bin\Release\drivermp_serv.exe
+d:\Dokumentumok\Programming\Exe\Projects\drivermp\drivermp_serv\obj\Release\ResolveAssemblyReference.cache
+d:\Dokumentumok\Programming\Exe\Projects\drivermp\drivermp_serv\obj\Release\drivermp_serv.exe
+d:\Dokumentumok\Programming\Projects\drivermp\drivermp_serv\bin\Release\drivermp_serv.exe.config
+d:\Dokumentumok\Programming\Projects\drivermp\drivermp_serv\bin\Release\drivermp_serv.exe
+d:\Dokumentumok\Programming\Projects\drivermp\drivermp_serv\obj\Release\ResolveAssemblyReference.cache
+d:\Dokumentumok\Programming\Projects\drivermp\drivermp_serv\obj\Release\drivermp_serv.exe
