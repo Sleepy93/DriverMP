@@ -2,12 +2,13 @@
 
 Driver Multiplayer 1.2 Alpha
 
-The multiplayer was tested with the v6.3w EU, v1.2 US, and v1.3 US version exe.
-This program requires at least .Net Framework 2.0 to run.
+> The multiplayer was tested with the v6.3w EU, v1.2 US, and v1.3 US version exe.
+
+> This program requires at least .Net Framework 2.0 to run.
 
 # Installation
 
-Copy the files to the game's directory.
+> Copy the files to the game's directory.
 
 # Useage
 
@@ -33,8 +34,6 @@ with the ESC->Restart.
 
 # Credit List
 
-Made by Kurtis
+> Made by Kurtis & Sleepy
 
-Bugfix by Carluver69
-
-Supported by Sleepy
+> Bugfix by Carluver69
